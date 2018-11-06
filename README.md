@@ -10,5 +10,5 @@ This repo contains all documents and code which we developed during e-Yantra Nat
  - Devang Suthar (ECE)
  
 ## Final thought 
-- We successfully completed Task-0,1 & 2 and secured rank in top 3. Unfortunately due to the failure of the robot hardware, lack of time and kills we were unable to submit final task.
+- We successfully completed Task-0,1 & 2 and secured rank in top 3. Unfortunately due to the failure of the robot hardware, lack of time and skills we were unable to submit final task.
 - Lesson learned from the competition especially from failure helped us a lot to secured 5th Rank in this e-yantra competition in 2015.
